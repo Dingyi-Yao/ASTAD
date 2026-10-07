@@ -200,4 +200,4 @@ If you find this work useful, please cite:
 
 ## 🙏 Acknowledgements
 
-This code is built upon the foundational work of [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [DINOv2](https://github.com/facebookresearch/dinov2), [diffusers](https://github.com/huggingface/diffusers), and [CACTIF](https://github.com/CACTIF). We thank the authors for their open-source contributions.
+This code is built upon the foundational work of [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [DINOv2](https://github.com/facebookresearch/dinov2), [diffusers](https://github.com/huggingface/diffusers), and [CACTIF](https://github.com/echigot/CACTIF). We thank the authors for their open-source contributions.
